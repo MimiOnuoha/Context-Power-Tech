@@ -44,16 +44,6 @@ In this class, students will:
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discrimination based on gender, race, sexual orientation, religion, disability, or appearance. 
 
-## Format
-
-Students will complete readings in the week before class. In each class we'll outline the context for an argument, where it developed from, and then trace out the impacts of and more examples of the myth in our current time. No myth is all true, but neither is any myth all false. 
-
-- what does the myth allow?
-- who holds these myths? do you? 
-- how is it maintained? 
-- who benefits from this?
-- how does it effect us, here and now? 
-
 ## Evaluation
 
 Final evaluation will be based on the completion of all assignments, blogposts, class participation, quality of work, and attendance. 
@@ -100,7 +90,7 @@ This class is experimental in nature. Students should be open to changes and inv
 
 ### Week Seven: December 3
 
-
+*To come!*
 
 ### Week Eight: December 10 
 
