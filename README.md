@@ -9,12 +9,12 @@
 
 ## Course Description 
 
-**Instructor:** Mimi Onuoha
-**Contact**: cgo221@nyu.edu
-**Term:** Fall 2019
-**Locations:** Room 410 
-**Meeting Time**: 12:10pm -2:40pm 
-**Office Hours w/ Mimi:** Wednesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email
+**Instructor:** Mimi Onuoha  
+**Contact**: cgo221@nyu.edu  
+**Term:** Fall 2019  
+**Locations:** Room 410   
+**Meeting Time**: 12:10pm -2:40pm   
+**Office Hours w/ Mimi:** Wednesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email   
 
 We live in a world where we have more data, computational power, and access to digital connectivity than ever before. But how do we make sense of the promise inherent in this reality while also coming to terms with the challenges that it presents? This class is designed to provide a starting point for answering this question by providing an introduction to the social, historical, and critical context of computing, with special attention paid to what viewpoints built into technology and which groups are marginalized in computing. 
 
