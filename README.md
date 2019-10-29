@@ -15,6 +15,9 @@
 **Locations:** Room 410   
 **Meeting Time**: 12:10pm -2:40pm   
 **Office Hours w/ Mimi:** Wednesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email   
+**Homework Form:** https://forms.gle/WKoSgRSa4KVJQy9k6     
+
+
 
 We live in a world where we have more data, computational power, and access to digital connectivity than ever before. But how do we make sense of the promise inherent in this reality while also coming to terms with the challenges that it presents? This class is designed to provide a starting point for consumers and creators of technology to answer this question by providing an introduction to the social, historical, and critical context of computing, with special attention paid to what viewpoints built into technology and how they affect different populations. 
 
@@ -72,7 +75,7 @@ NOTE: you don't have to do these readings, I just include them so you know where
 
 - Oliver, Julian,  G. Savicic, D. Vasiliev.  [Critical Engineering Manifesto](https://criticalengineering.org/) , 2011. 
 
-- 
+  
 
   
 
@@ -93,6 +96,7 @@ NOTE: you don't have to do these readings, I just include them so you know where
 #### Assignment: 
 
 - In 1996, John Perry Barlow, founder of the EFF, published his soon-to-be famous *Declaration on the Independence of Cyberspace.* In it, he insists that "Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live." Using the readings, write a 400-500 word response to the central idea in Barlow's declaration. Things to cover: do you agree with the idea that he expresses, and the idea that it is a myth? If so, where else in the world do you see the same sentiments articulated? How do the various readings complicate Barlow's claim, and how are they in conversation with one another? You don't have to bring up every reading, but you should weave a few in conversation with each other. Focus on those that stand out to you the most, and that you think are the strongest.
+- Remember to post your homework using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6). 
 
 ### Week Two: October 29 
 
