@@ -86,10 +86,14 @@ NOTE: you don't have to do these readings, I just include them so you know where
 - John Perry Barlow (1996). *A Declaration of the Independence of Cyberspace*. https://www.eff.org/cyberspace-independence
 - Drucker, Johanna. "Performative Materiality and Theoretical Approaches to Interface". Digital Humanities Quarterly, Volume 7, Number 1, 2013. http://www.digitalhumanities.org/dhq/vol/7/1/000143/000143.html
 - Paglen, Trevor. "Experimental Geography: From Cultural Production to the Production of Space".  March 2009. The Brooklyn Rail. https://brooklynrail.org/2009/03/express/experimental-geography-from-cultural-production-to-the-production-of-space
-- Okoye, Victoria. "Speculative Infrastructures at the Urban Margins." African Urbanism blog, September 20, 2018. http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/
+- Hill, Kasmir. "[How an internet mapping glitch turned a random Kansas farm into a digital hell.](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)" Splinter, April 2016.
+- Sweeney, Latanya. "[Discrimination in Online Ad Delivery](http://delivery.acm.org/10.1145/2470000/2460278/p10-sweeney.pdf?ip=216.165.95.183&id=2460278&acc=OPEN&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572480442_aa53768b9c05f8df67df5202465bd392)" Queue Magazine, Volume 11 Issue 3, March 2013.  
 - Kinniburgh, Colin. 'Beyond "Conflict Minerals": The Congo's Resource Curse Lives On.' Dissent Magazine, Spring 2014 issue. https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on 
 - [Algorithmic Citizenship](http://citizen-ex.com/citizenship) project, James Bridle
 - [Blurred places on Google Maps](https://www.google.com/maps/place/44%C2%B008'41.4%22N+4%C2%B042'23.4%22E/@44.1430963,4.6991975,2435m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d44.1448333!4d4.7065). 
+  - OPTIONAL:
+    - Okoye, Victoria. "Speculative Infrastructures at the Urban Margins." African Urbanism blog, September 20, 2018. http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/
+    - 
 
 
 
