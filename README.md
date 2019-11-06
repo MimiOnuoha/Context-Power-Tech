@@ -92,9 +92,8 @@ NOTE: you don't have to do these readings, I just include them so you know where
 - [Blurred places on Google Maps](https://www.google.com/maps/place/44%C2%B008'41.4%22N+4%C2%B042'23.4%22E/@44.1430963,4.6991975,2435m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d44.1448333!4d4.7065). 
   - OPTIONAL:
     - Okoye, Victoria. "Speculative Infrastructures at the Urban Margins." African Urbanism blog, September 20, 2018. http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/
-
-
-#### Assignment: 
+ 
+####Assignment: 
 
 - In 1996, John Perry Barlow, founder of the EFF, published his soon-to-be famous *Declaration on the Independence of Cyberspace.* In it, he insists that "Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live." Using the readings, write a 400-500 word response to the central idea in Barlow's declaration. Things to cover: do you agree with the idea that he expresses, and the idea that it is a myth? If so, where else in the world do you see the same sentiments articulated? How do the various readings complicate Barlow's claim, and how are they in conversation with one another? You don't have to bring up every reading, but you should weave a few in conversation with each other. Focus on those that stand out to you the most, and that you think are the strongest.
 - Remember to post your homework using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6). 
