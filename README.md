@@ -77,7 +77,6 @@ NOTE: you don't have to do these readings, I just include them so you know where
 
   
 
-  
 
 #### Materials for next week:
 
@@ -93,9 +92,6 @@ NOTE: you don't have to do these readings, I just include them so you know where
 - [Blurred places on Google Maps](https://www.google.com/maps/place/44%C2%B008'41.4%22N+4%C2%B042'23.4%22E/@44.1430963,4.6991975,2435m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d44.1448333!4d4.7065). 
   - OPTIONAL:
     - Okoye, Victoria. "Speculative Infrastructures at the Urban Margins." African Urbanism blog, September 20, 2018. http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/
-    - 
-
-
 
 #### Assignment: 
 
@@ -104,9 +100,33 @@ NOTE: you don't have to do these readings, I just include them so you know where
 
 ### Week Two: October 29 
 
-*The Internet Has No Place and No Face*
+*Myth: Everyone should be here: its better to be connected.*
 
+#### Materials for next week:
 
+- Mark Zuckerberg's [Facebook IPO letter](https://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/9055830/Facebook-IPO-Letter-from-Mark-Zuckerberg.html), February 2012. 
+- Jo Freeman, "[The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)"
+- Mukherjee, Aditya. "[I Can Text You A Pile of Poo, But I Can't Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)". Model View Culture, Issue 18, March 2015. 
+- [Centre for Inclusive Design Report](http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf), May 2019  (skim)
+- [Mukurtu CMS](https://mukurtu.org/) 
+- Wood, Charlie. "[Blizzard bans 3 more 'Hearthstone' players for holding up pro-Hong Kong protest signs during a livestream](https://www.businessinsider.com/blizzard-bans-3-more-hearthstone-players-for-hong-kong-sign-2019-10)." Oct 17, 2019. 
+- OPTIONAL:
+  - [Yinka Shonibare's work](https://www.projectbly.com/blog/critique-by-batik)
+  - Nash, Jennifer C. Re-thinking Intersectionality. Feminist Review Volume 89, 2008.  (in readings folder )
+
+####Assignment: 
+
+You have two assignments:
+
+ 1. Create your own Declaration on the Independence of Cyberspace. What should be included in it? This can be a rough draft, it doesn't have to be perfect, but keep in mind the concepts we covered in class, ranging from various dualisms to Drucker's performative materiality. The readings for this week may be useful, but you're not required to incorporate them. 
+
+    
+
+ 2. "There is a huge need and a huge opportunity to get everyone in the world connected, to give everyone a voice and to help transform society for the future. The scale of the technology and infrastructure that must be built is unprecedented, and we believe this is the most important problem we can focus on." - Mark Zuckerberg, 2012, Facebook filing for IPO. 
+
+    Mark Zuckerberg, founder of Facebook, once declared that Facebook was built to accomplish the social mission of making the world more open and connected. This idea that the world should be more connected is a normative expression that is fundamental to the creation of the internet and the web built upon it. But what does the acceptance of this idea also work to produce? 
+
+    In your 400-500 word response, trace out the implications of Zuckerberg's utterance, weaving in the readings that stand out to you as most compelling. Make sure to include in your response some questions that the above readings and concepts have brought up for you. Remember to post your homework using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6) at least an hour before class. 
 
 ### Week Three: November 5 
 
