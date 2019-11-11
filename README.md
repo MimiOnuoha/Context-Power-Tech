@@ -55,7 +55,7 @@ This class is experimental in nature. Students should be open to changes and inv
 
 ## Syllabus
 
-### Week One: October 22 
+### Week One: October 29 
 
 *Introductions to course, logistics, myth, and each other*
 
@@ -98,9 +98,10 @@ NOTE: you don't have to do these readings, I just include them so you know where
 - In 1996, John Perry Barlow, founder of the EFF, published his soon-to-be famous *Declaration on the Independence of Cyberspace.* In it, he insists that "Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live." Using the readings, write a 400-500 word response to the central idea in Barlow's declaration. Things to cover: do you agree with the idea that he expresses, and the idea that it is a myth? If so, where else in the world do you see the same sentiments articulated? How do the various readings complicate Barlow's claim, and how are they in conversation with one another? You don't have to bring up every reading, but you should weave a few in conversation with each other. Focus on those that stand out to you the most, and that you think are the strongest.
 - Remember to post your homework using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6). 
 
-### Week Two: October 29 
+### Week Two: November 5 
 
-*Myth: Everyone should be here: its better to be connected.*
+*Myth: The Internet has no place, on the internet you have no face*
+
 
 #### Materials for next week:
 
@@ -128,37 +129,36 @@ You have two assignments:
 
     In your 400-500 word response, trace out the implications of Zuckerberg's utterance, weaving in the readings that stand out to you as most compelling. Make sure to include in your response some questions that the above readings and concepts have brought up for you. Remember to post your homework using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6) at least an hour before class. 
 
-### Week Three: November 5 
+### Week Three: November 12 
 
-*The Genius Founder*
-
-
-
-### Week Four: November 12 
-
-*Everyone should be here: always connected*
+*Myth: Everyone should be here: its better to be connected.*
 
 
 
-### Week Five: November 19 
 
-*Ethics Guide Actions*
+### Week Four: November 19 
 
-#### 
-
-### Week Six: November 26
-
-*Frictionless is Better*
+*Myth: The Genius Founder*
 
 
 
-### Week Seven: December 3
+### Week Five: November 26 
 
-*To come!*
+*Myth: Ethics Guide Actions*
 
-### Week Eight: December 10 
+
+
+### Week Six: December 3
+
+*Work in class*
+
+
+
+### Week Seven: December 10
 
 *Final Presentations*
+
+
 
 
 
