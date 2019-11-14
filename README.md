@@ -106,14 +106,34 @@ NOTE: you don't have to do these readings, I just include them so you know where
 #### Materials for next week:
 
 - Mark Zuckerberg's [Facebook IPO letter](https://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/9055830/Facebook-IPO-Letter-from-Mark-Zuckerberg.html), February 2012. 
+
 - Jo Freeman, "[The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)"
+
 - Mukherjee, Aditya. "[I Can Text You A Pile of Poo, But I Can't Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)". Model View Culture, Issue 18, March 2015. 
+
 - [Centre for Inclusive Design Report](http://centreforinclusivedesign.org/media/1186/inclusive-design-report-digital-160519.pdf), May 2019  (skim)
+
 - [Mukurtu CMS](https://mukurtu.org/) 
+
 - Wood, Charlie. "[Blizzard bans 3 more 'Hearthstone' players for holding up pro-Hong Kong protest signs during a livestream](https://www.businessinsider.com/blizzard-bans-3-more-hearthstone-players-for-hong-kong-sign-2019-10)." Oct 17, 2019. 
+
 - OPTIONAL:
+  
+  - [Agaric](https://agaric.coop/) 
+  
+  - Data & Society [Online Harassment, Digital Abuse](https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/) blog post (2017)
+  
   - [Yinka Shonibare's work](https://www.projectbly.com/blog/critique-by-batik)
+  
   - Nash, Jennifer C. Re-thinking Intersectionality. Feminist Review Volume 89, 2008.  (in readings folder )
+  
+  - ["Apple removes app used in Hong Kong protests after pressure from China"](https://www.theverge.com/2019/10/10/20907596/apple-hong-kong-protests-app-removed-china) (*shared by Winnie*)
+  
+  - ["Mensakas, la 'app' de reparto a domicilio creada por 'riders', se lanzara en julio"](https://cronicaglobal.elespanol.com/business/mensakas-reparto-domicilio-riders-julio_143237_102.html)  (article in Spanish)
+  
+    
+  
+    
 
 #### Assignment: 
 
@@ -133,7 +153,7 @@ You have two assignments:
 
 *Myth: Everyone should be here: its better to be connected.*
 
-
+See above! 
 
 
 ### Week Four: November 19 
