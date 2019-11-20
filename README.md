@@ -102,8 +102,9 @@ NOTE: you don't have to do these readings, I just include them so you know where
 
 *Myth: The Internet has no place, on the internet you have no face*
 
-
 #### Materials for next week:
+
+*Myth: Everyone should be here: it's better to be connected.*
 
 - Mark Zuckerberg's [Facebook IPO letter](https://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/9055830/Facebook-IPO-Letter-from-Mark-Zuckerberg.html), February 2012. 
 
@@ -133,7 +134,6 @@ NOTE: you don't have to do these readings, I just include them so you know where
   
     
   
-    
 
 #### Assignment: 
 
@@ -151,16 +151,58 @@ You have two assignments:
 
 ### Week Three: November 12 
 
-*Myth: Everyone should be here: its better to be connected.*
+*Myth: Everyone should be here: it's better to be connected.*
 
 See above! 
 
 
 ### Week Four: November 19 
 
+#### Assignment for next week
+
 *Myth: The Genius Founder*
 
+Microsoft: Bill Gates. Amazon: Jeff Bezos. Facebook: Mark Zuckerberg.  Google: Sergey Brin and Larry Page. Tesla: Elon Musk. Twitter: Jack Dorsey. Snap: Evan Spiegel. Uber Travis Kalanick. And of course, Apple: Steve Jobs. 
 
+Silicon Valley and the tech industry writ large is filled with stories of famous founders, single individuals (mostly white men) whose lives are publicly intertwined with the companies that they founded or co-founded. We know that one person never does anything on their own, but we also know that the actions of one person can have a significant impact on a scene, group, city, nation. 
+
+What does it mean that so many of these companies are strongly identified with individual leaders? More specifically, what purpose does it serve these individuals, their companies, and the users of the platforms and products that they have created? 
+
+Your readings begin with The Great Man Theory, which is composed of a straightforward idea: history is explained by the impact of unique and influential leaders, who are born possessing certain traits of leadership and who arise when our need for them is great. Consider if this idea continues to operate today. In your response, be sure to pose questions, weave in the readings that stand out to you, and post before class using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6).
+
+#### Materials for next week: 
+
+- Thomas Carlyle's *[On Heroes, Hero-Worship, and the Heroic in History](http://history.furman.edu/benson/fywbio/carlyle_great_man.htm)*, 1840 
+
+- [TV tropes: The Leader](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLeader) 
+
+- Dailey, Kate. "[The cult of Steve Jobs](https://www.bbc.com/news/magazine-15194365)". BBC News Magazine. 7 October, 2011
+
+- Sunstein, Cass R. "[Statistically, Who's the Greatest Person in History?](https://newrepublic.com/article/115669/ranking-historical-figures-skiena-and-wards-whos-bigger-reviewed)".The New Republic, 3 December 2013.  
+
+- Whipps, Judy. "A Pragmatist Reading of Mary Parker Follett's Integrative Process". Transactions of the Charles S. Pierce Society, Vol 50, No 3. Summer 2014. [in readings folder, read from page 415, the section that begins with "Effect of Power on the Integrative Process"]
+
+- Anarkismo's *[Organizing Lessons from Civil Rights Leader Ella Baker](https://www.anarkismo.net/article/7645)*, March 2008
+
+- Reid, Tiana. [In Motion: An interview with director, writer, and activist Astra Taylor about her film *What is Democracy?*](https://thenewinquiry.com/in-motion/) The New Inquiry, May 2019. 
+
+- OPTIONAL
+
+  - Thackara, Tess. "[How Frida Kahlo Became a Global Brand](https://www.artsy.net/article/artsy-editorial-frida-kahlo-global-brand)." Artsy, December 19 2017.
+
+  - Gruber, David. "Foucault's Critique of the Liberal Individual." The  Journal of Philosophy,  Vol. 86, No. 11. 1989. [readings folder]
+
+  - Du Bois, W.E.B. "[The Talented Tenth](https://teachingamericanhistory.org/library/document/the-talented-tenth/)", September 1903.  
+
+  - [Combahee River Collective Statement](https://americanstudies.yale.edu/sites/default/files/files/Keyword%20Coalition_Readings.pdf) , 1974. 
+
+  - Graeber, David.  *[The Utopia of Rules](https://libcom.org/files/David_Graeber-The_Utopia_of_Rules_On_Technology_St.pdf)*, pages 44- 46 
+
+  - Steph Tai's guest post on Jordan Ellenberg's blog: "[On Deference to Experts](https://quomodocumque.wordpress.com/2012/12/25/guest-post-stephanie-tai-on-deference-to-experts/)"
+
+  - [extra optional] Pellow, D. N., & Park, L. S. (2002). The Emergence of Silicon Valley: High-Tech Development and Ecocide, 1950-2001. In *The Silicon Valley of Dreams* New York University Press.
+
+    
 
 ### Week Five: November 26 
 
