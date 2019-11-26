@@ -205,8 +205,34 @@ Your readings begin with The Great Man Theory, which is composed of a straightfo
 
 ### Week Five: November 26 
 
+#### Assignment for next week:
+
 *Myth: Ethics Guide Actions*
 
+"*...I believe that we need to continue to integrate social sciences and reflection even more deeply into our science and technology work. While I have a big voice at the Lab, the Lab operates on a "permissionless innovation" model where I don't tell researchers what to do (and neither do our funders). On the other hand, we have safety and other codes that we have to follow--is there an equivalent ethical or social code that we or other institutions should have? Harrison Eiteljorg, II thinks so. He wrote, "I would like to encourage you to consider adding to your staff at least one scholar whose job is to examine projects for the ethical implications for the work and its potential final outcome." I wonder, what would such a process look like?*" - Joi Ito, May 2018, "[On Ethics and Techno-Utopianism at the Media Lab](https://joi.ito.com/weblog/2018/05/12/on-ethics-and-t.html)"
+
+If the AI problem is the acknowledgement of the ways in which emerging technology (machine learning, facial recognition, biometric systems, etc) in the hands of powerful companies and governments recasts and amplifies existing social injustices, then the dominant response can be summed up in one word: ethics. The word has captured the interest of computer scientists and managers alike. For many, the solution to problems with emerging technology is to insist on the importance of creating codes of ethics, particularly for those who are designing the technology. 
+
+But what does a consideration of ethics presuppose, and what does it allow to be dismissed? What does ethics offer over other terms (such as fairness or justice), and why is it that many of the folks who talk about focusing on ethics—from Joi Ito to Elon Musk—have been confronted with ethical scandals? Is it possible for ethics as a framework to truly ensure that those who lack power in a situation will be adequately protected?  And what is an ethical decision in a situation where various groups have conflicting needs? 
+
+
+
+####Materials for next week: 
+
+- Metz, Cade. "[Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/)". Wired, 2016
+- Suleyman, Mustafa. "[Announcing the Partnership on AI to Benefit People & Society](https://deepmind.com/blog/announcements/announcing-partnership-ai-benefit-people-society)." DeepMind blog. 28 Sep 2016. 
+- Robitzski, Dan. [The AI NonProfit Elon Musk Founded and Quit is Now For-Profit](https://futurism.com/ai-elon-musk-openai-profit). Futurism, March 2019
+- Tuck, Eve, and K Wayne Yang. *[Decolonization is not a metaphor](https://jps.library.utoronto.ca/index.php/des/article/view/18630)*. Decolonization, Indigeneity, Education, & Society.  Volume 1 No 1, 2012. 
+- The [Safe Face Pledge](https://www.safefacepledge.org/pledge) 
+- Binyavanga Wainaina, [How to Write About Africa](https://granta.com/how-to-write-about-africa/). Granta 92: The View from Africa
+- Klein, Lauren, and Catherine D'Ignazio, [Data Feminism Chapter 8: Teach Data Like An Intersectional Feminist](https://bookbook.pubpub.org/pub/c5vkehnm), 2019 (still in progress)
+- BONUS:
+  - Nash, Jennifer C. Re-thinking Intersectionality. Feminist Review Volume 89, 2008. 
+  - "[A Framework for Making Ethical Decisions](https://www.brown.edu/academics/science-and-technology-studies/framework-making-ethical-decisions)", Brown University Science and Technology Studies. 
+  - Cathy O'Neil [Nate Silver](https://mathbabe.org/2012/12/20/nate-silver-confuses-cause-and-effect-ends-up-defending-corruption/) mathbabe blog, December 12, 2012. 
+  - Rashida Richardson, Jason M Schultz, and Kate Crawford.[Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf). NYU Law Review. 
+  - Langdon Winner's 1980 *Do Artifacts Have Politics?
+  - Tawana Petty session: https://facingrace.raceforward.org/archive/2018/sessions/beyond-allies-antiracism-visionary-organizing-and-co-liberation?  
 
 
 ### Week Six: December 3
