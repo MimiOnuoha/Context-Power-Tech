@@ -15,7 +15,8 @@
 **Locations:** Room 410   
 **Meeting Time**: 12:10pm -2:40pm   
 **Office Hours w/ Mimi:** Wednesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email   
-**Homework Form:** https://forms.gle/WKoSgRSa4KVJQy9k6     
+**Homework Form:** https://forms.gle/WKoSgRSa4KVJQy9k6   
+**Homework Responses:** https://docs.google.com/spreadsheets/d/1047n4c5Zx0kT-0zbBuAXvTWFhZ-CobYyoswjR4MaItE/edit?usp=sharing  
 
 
 
@@ -158,15 +159,13 @@ See above!
 
 ### Week Four: November 19 
 
-#### Assignment for next week
+#### Assignment for next week:
 
 *Myth: The Genius Founder*
 
 Microsoft: Bill Gates. Amazon: Jeff Bezos. Facebook: Mark Zuckerberg.  Google: Sergey Brin and Larry Page. Tesla: Elon Musk. Twitter: Jack Dorsey. Snap: Evan Spiegel. Uber Travis Kalanick. And of course, Apple: Steve Jobs. 
 
-Silicon Valley and the tech industry writ large is filled with stories of famous founders, single individuals (mostly white men) whose lives are publicly intertwined with the companies that they founded or co-founded. We know that one person never does anything on their own, but we also know that the actions of one person can have a significant impact on a scene, group, city, nation. 
-
-What does it mean that so many of these companies are strongly identified with individual leaders? More specifically, what purpose does it serve these individuals, their companies, and the users of the platforms and products that they have created? 
+Silicon Valley and the tech industry writ large is filled with stories of famous founders, single individuals (mostly white men) whose lives are publicly intertwined with the companies that they founded or co-founded. We know that one person never does anything on their own, but we also know that the actions of one person can have a significant impact on a scene, group, city, company, nation. 
 
 Your readings begin with The Great Man Theory, which is composed of a straightforward idea: history is explained by the impact of unique and influential leaders, who are born possessing certain traits of leadership and who arise when our need for them is great. Consider if this idea continues to operate today. In your response, be sure to pose questions, weave in the readings that stand out to you, and post before class using the [homework form](https://forms.gle/WKoSgRSa4KVJQy9k6).
 
