@@ -217,7 +217,7 @@ But what does a consideration of ethics presuppose, and what does it allow to be
 
 
 
-####Materials for next week: 
+#### Materials for next week: 
 
 - Metz, Cade. "[Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/)". Wired, 2016
 - Suleyman, Mustafa. "[Announcing the Partnership on AI to Benefit People & Society](https://deepmind.com/blog/announcements/announcing-partnership-ai-benefit-people-society)." DeepMind blog. 28 Sep 2016. 
